@@ -1,0 +1,5 @@
+# Dados brutos nao sao versionados (licenca CC BY-NC-SA 4.0 e tamanho): baixe pelo link no README
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+__pycache__/
