@@ -1,5 +1,5 @@
 -- Etapa 04 - Criação das tabelas (PostgreSQL)
--- Os CSVs vêm de data/processed/ (gerados por notebooks/03_limpeza.py).
+-- Os CSVs vêm de data/processed/ (gerados por scripts/limpeza.py).
 
 DROP TABLE IF EXISTS order_reviews, order_payments, order_items, orders, products, sellers, customers CASCADE;
 
