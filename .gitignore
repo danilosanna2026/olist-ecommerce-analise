@@ -3,3 +3,5 @@ data/raw/
 data/processed/
 .ipynb_checkpoints/
 __pycache__/
+# Arquivo do Power BI (~35 MB)
+dashboard/*.pbix
